@@ -1,2 +1,4 @@
 # Clean_MiBrowser
-a xposed moudle for mi browser global version。clean page ads. 
+A simple Xposed module to remove in-page ads from Mi Browser Global. 
+
+一个简单的 Xposed 模块，清除小米浏览器国际版页面广告。
