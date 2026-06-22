@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clean MiBrowser</string>
+    <string name="title_main">Remove Chat &amp;Games</string>
+    <string name="desc_main">Remove Chat &amp;Games from MI Global Browser</string>
+</resources>
